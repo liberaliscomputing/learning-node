@@ -55,3 +55,7 @@ Self-coded examples for [NodeSchool](https://nodeschool.io/) tutorials
 + [LINKS AND REFERENCES](https://github.com/liberaliscomputing/learning-node/tree/master/nodeschool-tutorials/core/learnyouhtml/links-and-references.html)
 + [FORMS](https://github.com/liberaliscomputing/learning-node/tree/master/nodeschool-tutorials/core/learnyouhtml/forms.html)
 + [STYLES AND SCRIPTS](https://github.com/liberaliscomputing/learning-node/tree/master/nodeschool-tutorials/core/learnyouhtml/styles-and-scripts.html)
+
+### [how-to-npm](https://github.com/workshopper/how-to-npm)
+
++ [HOW-TO-NPM](https://github.com/liberaliscomputing/learning-node/tree/master/nodeschool-tutorials/core/how-to-npm)
